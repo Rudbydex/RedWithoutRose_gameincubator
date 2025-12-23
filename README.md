@@ -1,4 +1,4 @@
-# Red Without Rose
+Red Without Rose
 
 **Red Without Rose** is a short wordless narrative game inspired by *Little Red Riding Hood*.  
 The game explores fear, pursuit, and transformation through environment, color, and movement rather than dialogue.
@@ -10,7 +10,7 @@ https://rudbyde.itch.io/red-without-rose
 
 ---
 
-## Concept
+#Concept
 
 The game begins in a desaturated, colorless world.  
 As the player progresses and interacts with key objects, color gradually returns, symbolizing awareness, danger, and choice.
@@ -23,7 +23,7 @@ Instead of explicit storytelling, meaning is conveyed through:
 
 ---
 
-## Gameplay
+# Gameplay
 
 - **Movement:** WASD / Arrow keys  
 - **Goal:** Navigate the environment, avoid the wolf, and reach the ending
@@ -34,7 +34,7 @@ Instead of explicit storytelling, meaning is conveyed through:
 
 ---
 
-## Technical Overview (Unity)
+# Technical Overview (Unity)
 
 - Engine: **Unity (2D)**
 - Language: **C#**
@@ -46,7 +46,7 @@ Instead of explicit storytelling, meaning is conveyed through:
 
 ---
 
-## Repository Structure
+# Repository Structure
 Assets/
 └── Scripts/
 ├── Player movement
