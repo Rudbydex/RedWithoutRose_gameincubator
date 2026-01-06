@@ -48,8 +48,12 @@ Instead of explicit storytelling, meaning is conveyed through:
 
 #Repository Structure
 Assets/
-└── Scripts/
-├── Player movement
-├── Wolf behavior
+
+└── Scripts/n
+
+└── Player movement
+
+└── Wolf behavior
+
 └── Scene / trigger logic
 
